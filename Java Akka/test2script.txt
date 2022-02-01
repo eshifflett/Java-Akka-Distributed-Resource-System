@@ -1,0 +1,6 @@
+read-request-b Printer_0
+read-request-n Printer_1
+write-request-b Printer_1
+write-release Printer_1
+read-release Printer_0
+read-release Printer_1
