@@ -5,5 +5,5 @@ The "resources" being manages are simple classes uniquely identified as strings.
 The simulation can be run by running the "Main.java" file in the utils directory. The test cases are in the .txt files in the project directory, and you can switch the tests in Main.java as well as edit the .txt files to test other simulations than provided.
 ## Sample Output:
 Here is a quick screenshot of what a simluation looks like (this one is using setupTest3() in Main.java)
-![Game](OutputExample.png)
+![Game](OutputExample.png) <br />
 This project was implemented as a part of CMSC433 - Programming Language Technologies and Paradigms at the University of Maryland.
