@@ -6,4 +6,4 @@ The simulation can be run by running the "Main.java" file in the utils directory
 ## Sample Output:
 Here is a quick screenshot of what a simluation looks like (this one is using setupTest3() in Main.java)
 ![Game](OutputExample.png)
-This project was implemented as a part of CMSC433 - Programming Languages and Paradigms at the University of Maryland.
+This project was implemented as a part of CMSC433 - Programming Language Technologies and Paradigms at the University of Maryland.
